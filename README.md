@@ -45,7 +45,7 @@ Mi objetivo es seguir creciendo en el área QA y dominar herramientas como **Cyp
 
 ### 💌 Conectemos
 
-📧 **Email:** [mariabelen.franco2012@gmail.com](mailto:mariabelen.franco2012@gmail.com)  
+
 💼 **LinkedIn:** [María Belén Franco](https://www.linkedin.com/in/maria-belen-franco-396aab374/)
 
 ---
