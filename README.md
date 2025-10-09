@@ -3,15 +3,15 @@
   <img src="https://github.com/mariabelenfranco1985/mariabelenfranco1985/blob/main/banner.png" alt="María Belén Franco Banner" width="800">
 </p>
 
-<!-- 💜 Herramientas -->
+<!-- 💜 Herramientas y Tecnologías -->
 <p align="center">
-  <img src="https://img.shields.io/badge/CYPRESS-9b59b6?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/SELENIUM-8e44ad?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/POSTMAN-bf7bff?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/JIRA-9b59b6?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/MYSQL-8e44ad?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PYTHON-bf7bff?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/GITHUB-9b59b6?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/CYPRESS-7b2cbf?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/POSTMAN-bb3ce6?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/SELENIUM-8a33cc?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/JIRA-1a1a1a?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-9b59b6?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MYSQL-2b2b2b?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -24,12 +24,14 @@ Mi objetivo es seguir creciendo en el área QA y dominar herramientas como **Cyp
 
 ### 💻 Tecnologías que uso
 
-- 🧪 **Testing Manual:** Casos de prueba, reportes de bugs, Jira  
-- ⚙️ **Automatización:** Cypress, Playwright, Selenium  
-- 🔗 **API Testing:** Postman  
-- 🗄️ **Base de Datos:** MySQL, SQLite  
-- 🧭 **Control de versiones:** Git, GitHub  
-- 💡 **Lenguajes:** JavaScript, Python  
+| 💗 **Categoría** | ⚙️ **Herramientas** |
+|------------------|----------------------|
+| **Testing Manual** | Casos de prueba, reportes de bugs, Jira |
+| **Automatización** | Cypress, Playwright, Selenium |
+| **API Testing** | Postman |
+| **Base de datos** | MySQL, SQLite |
+| **Control de versiones** | Git, GitHub |
+| **Lenguajes** | JavaScript, Python |
 
 ---
 
