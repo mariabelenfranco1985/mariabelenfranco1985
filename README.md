@@ -1,4 +1,4 @@
-[![banner.png](https://i.postimg.cc/vmdgbX1x/banner.png)](https://postimg.cc/68Y5hrfB)
+
 
 # 🌸 ¡Hola, soy María Belén Franco!
 
