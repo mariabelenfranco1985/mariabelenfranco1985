@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mariabelenfranco1985/mariabelenfranco1985/main/banner.png" alt="Banner María Belén Franco" width="800"/>
+</p>
 ---
 
 ## 🌸 ¡Hola, soy María Belén Franco!
