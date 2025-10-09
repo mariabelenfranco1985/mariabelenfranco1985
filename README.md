@@ -8,24 +8,25 @@
 
 ## 💖 ¡Hola, soy María Belén Franco!
 
-Soy **QA Tester Manual y Automation**, apasionada por las pruebas de software, la automatización y la mejora continua.  
-Mi objetivo es seguir creciendo en el área de QA y dominar herramientas como **Cypress**, **Postman** y **Selenium**.  
+💻 **QA Tester Manual y Automation**  
+💫 Apasionada por las pruebas de software, la automatización y la mejora continua.  
+🎯 Mi objetivo es seguir creciendo en el área de QA y dominar herramientas como **Cypress**, **Postman** y **Selenium**.  
 
 ---
 
 ## 💻 Tecnologías que uso
-- 🧪 **Testing Manual:** Casos de prueba, reportes de bugs, Jira.  
-- ⚙️ **Automation:** Cypress, Playwright, Selenium.  
-- 🔗 **API Testing:** Postman.  
-- 💾 **Base de datos:** MySQL, SQLite.  
-- 🧭 **Control de versiones:** Git & GitHub.  
-- 💬 **Lenguajes:** JavaScript y Python.  
+- 🧪 **Testing Manual:** Casos de prueba, reportes de bugs, Jira  
+- ⚙️ **Automation:** Cypress, Playwright, Selenium  
+- 🔗 **API Testing:** Postman  
+- 💾 **Base de datos:** MySQL, SQLite  
+- 🧭 **Control de versiones:** Git & GitHub  
+- 💬 **Lenguajes:** JavaScript y Python  
 
 ---
 
 ## 🚀 Mis proyectos
 🔹 [**qa-ui-smoke-shop**](https://github.com/mariabelenfranco1985/qa-ui-smoke-shop)  
-Proyecto de pruebas automatizadas UI con **Cypress**, abarcando pruebas **Smoke** y **Functional Testing** para un e-commerce.
+Proyecto de pruebas automatizadas UI con **Cypress**, con enfoque en pruebas **Smoke** y **Functional Testing** para un e-commerce.  
 
 ---
 
@@ -36,4 +37,4 @@ Proyecto de pruebas automatizadas UI con **Cypress**, abarcando pruebas **Smoke*
 
 ---
 
-✨ *“La excelencia se logra cuando la pasión y la constancia trabajan juntas.”*  
+✨ *“La excelencia se logra cuando la pasión y la constancia trabajan juntas.”*
