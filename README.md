@@ -1,9 +1,4 @@
-
-<!-- Banner -->
-<p align="center">
-  <img src="AQUI_VA_EL_LINK_DE_TU_BANNER" alt="Banner - María Belén Franco" width="1000"/>
-</p>
-
+[![banner.png](https://i.postimg.cc/hjRVfcfY/banner.png)](https://postimg.cc/d7nhfMRR)
 ---
 
 ## 🌸 ¡Hola, soy María Belén Franco!
