@@ -19,7 +19,7 @@
 
 ### 🌸 ¡Hola, soy María Belén Franco!
 Apasionada por la calidad del software y la mejora continua.
-Actualmente me especializo en pruebas manuales y automatizadas como **Cypress**, **Postman** y **Selenium**.aplicando metodologías ágiles (Scrum) y control de versiones con Git y GitHub.
+Actualmente me especializo en pruebas manuales y automatizadas como **Cypress**, **Postman** y **Selenium** , aplicando metodologías ágiles (Scrum) y control de versiones con Git y GitHub.
 
 ---
 
