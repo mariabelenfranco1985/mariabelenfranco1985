@@ -28,11 +28,12 @@ Actualmente me especializo en pruebas manuales y automatizadas como **Cypress**,
 | 💗 **Categoría** | ⚙️ **Herramientas** |
 |------------------|----------------------|
 | **Testing Manual** | Casos de prueba, reportes de bugs, Jira |
-| **Automatización** | Cypress, Playwright, Selenium |
+| **Automatización** | Cypress, Playwright, Selenium | katalon | JMeter |
 | **API Testing** | Postman |
 | **Base de datos** | MySQL, SQLite |
 | **Control de versiones** | Git, GitHub |
 | **Lenguajes** | JavaScript, Python |
+| **Gestión y documentación:**| Jira · Confluence · Azure DevOps |
 
 ---
 
