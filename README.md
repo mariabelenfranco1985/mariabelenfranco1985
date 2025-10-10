@@ -18,8 +18,8 @@
 ---
 
 ### 🌸 ¡Hola, soy María Belén Franco!
-Apasionada por las pruebas de software, la automatización y la mejora continua.  
-Mi objetivo es seguir creciendo en el área QA y dominar herramientas como **Cypress**, **Postman** y **Selenium**.
+Apasionada por la calidad del software y la mejora continua.
+Actualmente me especializo en pruebas manuales y automatizadas como **Cypress**, **Postman** y **Selenium**.aplicando metodologías ágiles (Scrum) y control de versiones con Git y GitHub.
 
 ---
 
