@@ -1,6 +1,6 @@
 <!-- 💜 Banner -->
 <p align="center">
- <img src="https://github.com/mariabelenfranco1985/mariabelenfranco1985/blob/main/banner.png" alt="María Belén Franco Banner" width="800">
+ <img src="https://github.com/mariabelenfranco1985/mariabelenfranco1985/blob/main/banner 2.png" alt="María Belén Franco Banner" width="800">
 
 </p>
 
