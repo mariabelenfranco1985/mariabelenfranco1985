@@ -33,7 +33,7 @@ Actualmente me especializo en pruebas manuales y automatizadas como **Cypress**,
 | **Base de datos** | MySQL, SQLite |
 | **Control de versiones** | Git, GitHub |
 | **Lenguajes** | JavaScript, Python |
-| **Gestión y documentación:**| Jira · Confluence · Azure DevOps |
+| **Gestión y documentación:**| Jira · Confluence  |
 |**Versionado y colaboración:** |Git · GitHub  
 
 
