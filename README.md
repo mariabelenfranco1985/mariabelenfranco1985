@@ -45,7 +45,7 @@ Busco seguir creciendo profesionalmente dentro del área de **Quality Assurance*
 - [**qa-ui-smoke-shop**](https://github.com/mariabelenfranco1985/qa-ui-smoke-shop):  
   Proyecto de pruebas automatizadas UI desarrollado con **Cypress** y **Python (Pytest)**.  
   Incluye **smoke testing**, **functional testing** y validaciones de flujos críticos en un entorno de **e-commerce**.  
-  Aplicación de buenas prácticas de QA, organización modular, generación de reportes y uso de **Git/GitHub** para control de versiones.ción de buenas prácticas de QA, organización modular, generación de reportes y uso de **Git/GitHub** para control de versiones.
+  Aplicación de buenas prácticas de QA, organización modular, generación de reportes y uso de **Git/GitHub** para control de versiones.
 ---
 
 ### 💌 Conectemos
