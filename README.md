@@ -46,7 +46,7 @@ Busco seguir creciendo profesionalmente dentro del área de **Quality Assurance*
   Proyecto de pruebas automatizadas UI desarrollado con **Cypress** y **Python (Pytest)**.  
   Incluye **smoke testing**, **functional testing** y validaciones de flujos críticos en un entorno de **e-commerce**.  
   Aplicación de buenas prácticas de QA, organización modular, generación de reportes y uso de **Git/GitHub** para control de versiones.
----
+  ---
 
 ### 💌 Conectemos
 
