@@ -18,8 +18,10 @@
 ---
 
 ### 🌸 ¡Hola, soy María Belén Franco!
-Apasionada por la calidad del software y la mejora continua.
-Actualmente me especializo en pruebas manuales y automatizadas como **Cypress**, **Postman** y **Selenium** , aplicando metodologías ágiles (Scrum) y control de versiones con Git y GitHub.
+Tester QA Jr. apasionada por la tecnología y el control de calidad de software.  
+Actualmente realizo **pruebas manuales y automatizadas** enfocadas en la calidad de interfaces gráficas (UI) y flujos funcionales.  
+Desarrollo y ejecuto pruebas con **Cypress** y **Python (Pytest)**, aplicando buenas prácticas de QA, control de versiones con **Git/GitHub**, y documentación clara de resultados.  
+Busco seguir creciendo profesionalmente dentro del área de **Quality Assurance**, perfeccionando mis habilidades técnicas y participando en proyectos que desafíen mis conocimientos.  
 
 ---
 
@@ -41,9 +43,9 @@ Actualmente me especializo en pruebas manuales y automatizadas como **Cypress**,
 
 ### 📂 Mis proyectos
 
-- [**qa-ui-smoke-shop**](https://github.com/mariabelenfranco1985/qa-ui-smoke-shop):  
-  Proyecto de pruebas automatizadas UI con **Cypress** — smoke & functional testing para un e-commerce.
-
+  Proyecto de pruebas automatizadas UI desarrollado con **Cypress** y **Python (Pytest)**.  
+  Incluye **smoke testing**, **functional testing** y validaciones de flujos críticos en un entorno de **e-commerce**.  
+  Aplicación de buenas prácticas de QA, organización modular, generación de reportes y uso de **Git/GitHub** para control de versiones.
 ---
 
 ### 💌 Conectemos
