@@ -48,14 +48,45 @@ Busco seguir creciendo profesionalmente dentro del área de **Quality Assurance*
   
   ---
 
-### 💌 Conectemos
+## 🧩 Mis proyectos  
 
+### 🐍 **Python – Pruebas de Automatización y QA**
+Repositorio con pruebas automatizadas, validaciones funcionales y scripts de práctica en Python.  
+Incluye casos como:
+- **Login y búsqueda en Google con Selenium**  
+- **Validaciones de formularios y API con Requests**  
+- **Pruebas unitarias con Unittest y Pytest**
 
-💼 **LinkedIn:** [María Belén Franco](https://www.linkedin.com/in/maria-belen-franco-396aab374/)
+📂 [Ver repositorio](#)
 
 ---
-<p align="center">✨ “Lo que hacemos en esta vida, resuena en la eternidad.” ✨</p>
+
+### ⚡ **Cypress – Pruebas End-to-End**
+Repositorio con automatizaciones realizadas en Cypress, aplicadas a entornos de prueba reales:  
+- Flujos de login válidos e inválidos  
+- Agregar productos al carrito y checkout  
+- Flujo bancario automatizado  
+- Smoke Tests de regresión
+
+📂 [Ver repositorio](#)
+
+---
+
+## 🎓 Formación  
+
+- 🎓 **Testing QA y Python – UTN (en curso)**  
+- 💻 **Tecnicatura Universitaria en Programación – UTN (inicio marzo)**  
+- 📘 Formación complementaria en **metodologías ágiles**, **Postman** y **automatización web**.  
+
+---
+
+## 📫 Contacto  
 
 <p align="center">
-  🌟 *Gracias por visitar mi perfil* 🌟
+<a href="https://www.linkedin.com/in/mar%C3%ADa-f-7805518a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="mailto:mariabelenfranco1985@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+---
+
+<p align="center"><i>“Lo que hacemos en esta vida, resuena en la eternidad.”</i></p>
