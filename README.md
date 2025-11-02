@@ -27,15 +27,15 @@ Busco seguir creciendo profesionalmente dentro del área de **Quality Assurance*
 
 ### 💻 Tecnologías que uso
 
-| 💗 **Categoría** | ⚙️ **Herramientas** |
-|------------------|----------------------|
-| **Testing Manual** | Casos de prueba, reportes de bugs, Jira |
-| **Automatización** | Cypress, Playwright, Selenium | katalon | JMeter |
+| 💼 Área de especialización | ⚙️ Herramientas y Tecnologías |
+|-----------------------------|-------------------------------|
+| **Testing Manual** | Casos de prueba · Reportes de bugs · Jira |
+| **Automatización de Pruebas** | Cypress · Playwright · Selenium |
 | **API Testing** | Postman |
-| **Base de datos** | MySQL |
-| **Lenguajes** | JavaScript, Python |
-| **Gestión y documentación:**| Jira · Confluence  |
-|**Versionado y colaboración:** |Git · GitHub  
+| **Bases de Datos** | MySQL |
+| **Lenguajes de Programación** | Python · JavaScript |
+| **Gestión y Documentación** | Jira · Confluence |
+| **Control de Versiones y Colaboración** | Git · GitHub | 
 
 
 ---
