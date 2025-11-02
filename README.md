@@ -1,7 +1,11 @@
-<!-- 💜 Banner -->
+<!-- ✨ Saludo animado -->
 <p align="center">
- <img src="https://github.com/mariabelenfranco1985/mariabelenfranco1985/blob/main/banner 2.png" alt="María Belén Franco Banner" width="800">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=28&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Bienvenidos,+soy+María+Belén+Franco+👋" alt="Bienvenida animada" />
+</p>
 
+<!-- 🖼️ Banner -->
+<p align="center">
+  <img src="https://github.com/mariabelenfranco1985/mariabelenfranco1985/blob/main/banner.png" alt="Banner María Belén Franco" width="100%">
 </p>
 
 <!-- 💜 Herramientas y Tecnologías -->
