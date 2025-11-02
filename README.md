@@ -1,8 +1,10 @@
+<h2 align="center" style="font-size:60px; color:#7C4DFF; font-weight:900;">
+  María Belén Franco
+</h2>
 
-<!-- 💜 Banner -->
+<!-- 🖼️ Banner -->
 <p align="center">
- <img src="https://github.com/mariabelenfranco1985/mariabelenfranco1985/blob/main/banner 2.png" alt="María Belén Franco Banner" width="800">
-
+  <img src="https://github.com/mariabelenfranco1985/mariabelenfranco1985/blob/main/banner.png" alt="Banner María Belén Franco" width="70%">
 </p>
 
 
