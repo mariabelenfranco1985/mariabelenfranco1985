@@ -54,6 +54,7 @@ Busco seguir creciendo profesionalmente dentro del área de **Quality Assurance*
 💼 **LinkedIn:** [María Belén Franco](https://www.linkedin.com/in/maria-belen-franco-396aab374/)
 
 ---
+<p align="center">✨ “Lo que hacemos en esta vida, resuena en la eternidad.” ✨</p>
 
 <p align="center">
   🌟 *Gracias por visitar mi perfil* 🌟
