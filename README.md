@@ -69,7 +69,7 @@ Repositorio con automatizaciones realizadas en Cypress, aplicadas a entornos de 
 - Smoke Tests de regresión
 
 
-🧠 **Selenium – Pruebas de Automatización Web**
+🧠**Selenium-Pruebas de Automatización web**
 
 Repositorio con pruebas automatizadas utilizando **Selenium WebDriver** y **Python**, enfocadas en la validación de flujos web y testing funcional.  
 Incluye casos como:  
