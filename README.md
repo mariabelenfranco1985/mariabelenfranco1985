@@ -1,13 +1,9 @@
-<!-- ✨ Saludo animado -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&weight=600&duration=3000&pause=1000&color=000000&center=true&vCenter=true&repeat=true&width=550&lines=Bienvenidos,+soy+María+Belén+Franco+👋" alt="Bienvenida animada" />
-</p>
 
-<!-- 🖼️ Banner -->
+<!-- 💜 Banner -->
 <p align="center">
-  <img src="https://github.com/mariabelenfranco1985/mariabelenfranco1985/blob/main/banner.png" alt="Banner María Belén Franco" width="100%">
-</p>
+ <img src="https://github.com/mariabelenfranco1985/mariabelenfranco1985/blob/main/banner 2.png" alt="María Belén Franco Banner" width="800">
 
+</p>
 
 
 
