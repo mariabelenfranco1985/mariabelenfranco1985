@@ -82,10 +82,11 @@ Repositorio con automatizaciones realizadas en Cypress, aplicadas a entornos de 
 ## 📫 Contacto  
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mar%C3%ADa-f-7805518a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="mailto:mariabelenfranco1985@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mar%C3%ADa-f-7805518a/">
+    <img src="https://img.shields.io/badge/LinkedIn-7C4DFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mariabelenfranco1985@gmail.com">
+    <img src="https://img.shields.io/badge/Email-651FFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
-
----
-
-<p align="center"><i>“Lo que hacemos en esta vida, resuena en la eternidad.”</i></p>
+<p align="center"><i>✨ “Lo que hacemos en esta vida, resuena en la eternidad.” ✨</i></p>
