@@ -52,31 +52,15 @@ Busco seguir creciendo profesionalmente dentro del área de **Quality Assurance*
 ## 🧩 Mis proyectos  
 
 ### 🐍 **Python – Pruebas de Automatización y QA**
-Repositorio con pruebas automatizadas, validaciones funcionales y scripts de práctica en Python.  
-Incluye casos como:
-- **Login y búsqueda en Google con Selenium**  
-- **Validaciones de formularios y API con Requests**  
-- **Pruebas unitarias con Unittest y Pytest**
-
-
----
-
-### ⚡ **Cypress – Pruebas End-to-End**
-Repositorio con automatizaciones realizadas en Cypress, aplicadas a entornos de prueba reales:  
-- Flujos de login válidos e inválidos  
-- Agregar productos al carrito y checkout  
-- Flujo bancario automatizado  
-- Smoke Tests de regresión
-
-
-🧠**Selenium-Pruebas de Automatización web**
-
-Repositorio con pruebas automatizadas utilizando **Selenium WebDriver** y **Python**, enfocadas en la validación de flujos web y testing funcional.  
+Desarrollo de pruebas automatizadas con **Python**, **Selenium WebDriver** y **Cypress**, enfocadas en la validación funcional y end-to-end de aplicaciones web.  
 Incluye casos como:  
-- Login válido e inválido en **SauceDemo**  
-- Navegación y verificación de elementos en interfaz de usuario  
-- Pruebas de carrito y eliminación de productos  
-- Validación de enlaces y flujo de compra
+- Flujos de login válidos e inválidos  
+- Búsqueda, filtrado y validación de productos  
+- Agregar y eliminar ítems del carrito  
+- Checkout y flujo bancario automatizado  
+- Validaciones de formularios y APIs con Requests  
+- Pruebas unitarias con Unittest y Pytest
+
 
 ---
 
