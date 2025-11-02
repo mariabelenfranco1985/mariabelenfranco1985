@@ -57,7 +57,6 @@ Incluye casos como:
 - **Validaciones de formularios y API con Requests**  
 - **Pruebas unitarias con Unittest y Pytest**
 
-📂 [Ver repositorio](#)
 
 ---
 
@@ -68,7 +67,7 @@ Repositorio con automatizaciones realizadas en Cypress, aplicadas a entornos de 
 - Flujo bancario automatizado  
 - Smoke Tests de regresión
 
-📂 [Ver repositorio](#)
+
 
 ---
 
