@@ -86,7 +86,7 @@ Repositorio con automatizaciones realizadas en Cypress, aplicadas a entornos de 
   <a href="https://www.linkedin.com/in/maria-belen-franco-396aab374">
     <img src="https://img.shields.io/badge/LinkedIn-7C4DFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:mariabelenfranco1985@gmail.com">
+  <a href="mailto:maria.belen.franco2012@gmail.com">
     <img src="https://img.shields.io/badge/Email-651FFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
