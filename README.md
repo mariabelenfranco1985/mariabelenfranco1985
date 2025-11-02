@@ -32,8 +32,7 @@ Busco seguir creciendo profesionalmente dentro del área de **Quality Assurance*
 | **Testing Manual** | Casos de prueba, reportes de bugs, Jira |
 | **Automatización** | Cypress, Playwright, Selenium | katalon | JMeter |
 | **API Testing** | Postman |
-| **Base de datos** | MySQL, SQLite |
-| **Control de versiones** | Git, GitHub |
+| **Base de datos** | MySQL |
 | **Lenguajes** | JavaScript, Python |
 | **Gestión y documentación:**| Jira · Confluence  |
 |**Versionado y colaboración:** |Git · GitHub  
