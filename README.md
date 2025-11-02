@@ -73,7 +73,7 @@ Repositorio con automatizaciones realizadas en Cypress, aplicadas a entornos de 
 
 ## 🎓 Formación  
 
-- 🎓 **Testing QA y Python – UTN (en curso)**  
+- 🎓 **Testing QA y Python – UTN**  
 - 💻 **Tecnicatura Universitaria en Programación – UTN (inicio marzo)**  
 - 📘 Formación complementaria en **metodologías ágiles**, **Postman** y **automatización web**.  
 
