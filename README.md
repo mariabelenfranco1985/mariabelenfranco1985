@@ -1,3 +1,9 @@
+<!-- 🖼️ Banner principal -->
+<p align="center">
+  <!-- Subí tu banner a GitHub (por ejemplo en la carpeta /assets o /images) y reemplazá el link de abajo -->
+  <img src="https://github.com/mariabelenfranco1985/mariabelenfranco1985/blob/main/banner.png" alt="Banner María Belén Franco" width="100%" />
+</p>
+
 <h1 align="center">🌸 María Belén Franco 🌸</h1>
 
 <p align="center">
@@ -17,15 +23,15 @@ Combino mi experiencia en control, análisis y atención al detalle con herramie
 
 ### 🧰 Herramientas & Tecnologías
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Jira-0078D7?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
 ---
@@ -44,6 +50,22 @@ Manejo avanzado de Excel, SAP y Oracle para análisis de información y gestión
 
 ---
 
+### 🧩 Proyectos QA
+
+📁 **Proyecto 1 – Testing de Sitio Demo Web**  
+Creación de casos de prueba, reporte de errores en Jira y validación de endpoints con Postman.  
+*Herramientas:* Jira · Postman · Excel  
+🔗 [Ver proyecto](#)
+
+📁 **Proyecto 2 – Automatización con Python y Selenium**  
+Desarrollo de scripts automatizados para pruebas de login y formularios.  
+*Herramientas:* Python · Selenium · VSCode  
+🔗 [Ver proyecto](#)
+
+*(Podés reemplazar los enlaces “#” cuando subas tus repositorios de pruebas.)*
+
+---
+
 ### 🎓 Formación
 
 - **Testing QA y Python – UTN (en curso)**  
@@ -51,6 +73,17 @@ Manejo avanzado de Excel, SAP y Oracle para análisis de información y gestión
 - **Formación continua en metodologías ágiles y herramientas de automatización.**
 
 ---
+
+### 📫 Contacto
+
+<p align="center">
+💼 <a href="https://www.linkedin.com/in/mar%C3%ADa-f-7805518a/">LinkedIn</a>  
+•  
+📧 <a href="mailto:mariabelenfranco1985@gmail.com">mariabelenfranco1985@gmail.com</a>  
+</p>
+
+<p align="center">✨ “La calidad no es un acto, es un hábito.” – Aristóteles ✨</p>
+
 
 ### 📫 Contacto
 
