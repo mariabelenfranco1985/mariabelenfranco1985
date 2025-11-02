@@ -1,19 +1,16 @@
-<!-- 💜 Banner -->
-<p align="center">
- <img src="https://github.com/mariabelenfranco1985/mariabelenfranco1985/blob/main/banner 2.png" alt="María Belén Franco Banner" width="800">
+<!-- 💜 Saludo luminoso -->
+<h1 align="center" style="color:#B388FF; text-shadow: 0 0 10px #B388FF, 0 0 20px #7C4DFF, 0 0 40px #7C4DFF;">
+  ✨ Hola, soy <span style="color:white; text-shadow: 0 0 10px #FFFFFF;">María Belén Franco</span> ✨
+</h1>
 
+<!-- 🖼️ Banner -->
+<p align="center">
+  <img src="https://github.com/mariabelenfranco1985/mariabelenfranco1985/blob/main/banner.png" alt="Banner María Belén Franco" width="100%">
 </p>
 
-<!-- 💜 Herramientas y Tecnologías -->
-<p align="center">
-  <img src="https://img.shields.io/badge/CYPRESS-7b2cbf?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/POSTMAN-bb3ce6?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/SELENIUM-8a33cc?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/JIRA-1a1a1a?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/PYTHON-9b59b6?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MYSQL-2b2b2b?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+<h3 align="center">
+  QA Tester | Python | Cypress | Selenium | Postman | Jira  
+</h3>
 
 ---
 
