@@ -70,7 +70,8 @@ Incluye casos como:
 
 ## 🎓 Formación  
 
-- 🎓 **Testing QA y Python – UTN**  
+- 🎓 **Testing QA y Python – UTN**
+- 🎓 **Testing QA automatizado – EDUCACION IT**
 - 💻 **Tecnicatura Universitaria en Programación – UTN (inicio marzo)**  
 - 📘 Formación complementaria en **metodologías ágiles**, **Postman** y **automatización web**.  
 
