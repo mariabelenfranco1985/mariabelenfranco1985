@@ -19,10 +19,14 @@
 ---
 
 ### 🌸 ¡Hola, soy María Belén Franco!
-Tester QA Jr. apasionada por la tecnología y el control de calidad de software.  
-Actualmente realizo **pruebas manuales y automatizadas** enfocadas en la calidad de interfaces gráficas (UI) y flujos funcionales.  
-Desarrollo y ejecuto pruebas con **Cypress** y **Python (Pytest)**, aplicando buenas prácticas de QA, control de versiones con **Git/GitHub**, y documentación clara de resultados.  
-Busco seguir creciendo profesionalmente dentro del área de **Quality Assurance**, perfeccionando mis habilidades técnicas y participando en proyectos que desafíen mis conocimientos.  
+**Tester QA Jr. apasionada por la tecnología y el control de calidad de software.**
+
+Actualmente realizo pruebas manuales y automatizadas enfocadas en la calidad y el correcto funcionamiento de los flujos del sistema.
+
+Desarrollo y ejecuto pruebas con **Cypress y Python (Pytest)**, aplicando buenas prácticas de QA, control de versiones con **Git/GitHub**, y documentación clara de resultados.
+
+Busco seguir creciendo profesionalmente dentro del área de **Quality Assurance**, perfeccionando mis habilidades técnicas y participando en proyectos que desafíen mis conocimientos.
+
 
 ---
 
